@@ -16,13 +16,13 @@
 
 ### 🧭 About Me
 
-I'm a backend-leaning full-stack engineer who's been building and shipping **real products** — not just side projects. I've singlehandedly architected, deployed, and maintained a production MERN platform, built DNS infrastructure from scratch, containerized deployment pipelines, and automated everything from backups to CI/CD.
+I'm a backend-leaning full-stack engineer who's been building and shipping **real products** not just side projects. I've singlehandedly architected, deployed, and maintained a production MERN platform, built DNS infrastructure from scratch, containerized deployment pipelines, and automated everything from backups to CI/CD.
 
 I genuinely enjoy the infrastructure side of things as much as the code itself. 🐳🔧
 
 - 🔭 Currently building the internal platform at **Ocellus Business & Services** as the sole engineer
 - 🌱 Deep into DNS systems, container orchestration, and self-hosted infra
-- ⚡ Deploy via `git push` — CI/CD with GitHub Actions + Watchtower
+- ⚡ Deploy via `git push` CI/CD with GitHub Actions + Watchtower
 - 📍 Based in Mumbai, India
 
 ---
@@ -62,13 +62,13 @@ I genuinely enjoy the infrastructure side of things as much as the code itself. 
 
 ### 💼 Experience
 
-**Software Developer** · Ocellus Business & Services, Mumbai — *Apr 2026 – Present*
+**Software Developer** · Ocellus Business & Services, Mumbai - *Apr 2026 – Present*
 - Sole engineer on the team — built an internal MERN platform from scratch, including an admin panel with 20+ features used company-wide
 - Built an invoice generator with live preview (Puppeteer) that auto-generates PDFs, replacing the old manual process
 - Containerized the full platform with Docker, deployed on a bare Linux server via Cloudflare Tunnel — zero exposed ports, zero cloud hosting costs
 - Wired up JWT auth + RBAC across all endpoints, automated Rclone backups, and set up CI/CD with GitHub Actions + Watchtower
 
-**Backend Developer (Intern)** · SIES College of Arts, Science and Commerce — *Nov 2025 – Jan 2026*
+**Backend Developer (Intern)** · SIES College of Arts, Science and Commerce - *Nov 2025 – Jan 2026*
 - Designed and built REST APIs in Python (FastAPI) as the data layer between frontend and SQL database
 - Implemented RBAC to manage permissions across user types
 - Collaborated cross-functionally on API contracts and delivered on schedule
@@ -84,7 +84,7 @@ I genuinely enjoy the infrastructure side of things as much as the code itself. 
 **🌐 DnsTitle**
 Multi-tenant DNS management platform, built solo.
 - Automated domain verification, subdomain provisioning, and full DNS record lifecycle management
-- Redis + BullMQ workers handle BIND9 operations async — failed jobs fail loudly, nothing breaks silently
+- Redis + BullMQ workers handle BIND9 operations async - failed jobs fail loudly, nothing breaks silently
 - Nginx reverse proxy for scalable multi-tenant routing
 - Fully Dockerized: API, worker, BIND9, Nginx, Redis each in their own container
 
