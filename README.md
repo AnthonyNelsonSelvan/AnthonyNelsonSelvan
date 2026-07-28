@@ -11,11 +11,6 @@
   <a href="mailto:anthony@anthonynelson.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://anthonynelson.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnthonyNelsonSelvan&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="profile views" />
-</p>
-
 ---
 
 ### 🧭 About Me
