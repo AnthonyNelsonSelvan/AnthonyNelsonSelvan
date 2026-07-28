@@ -66,7 +66,7 @@ I genuinely enjoy the infrastructure side of things as much as the code itself. 
 
 ### 💼 Experience
 
-**Software Developer** · Ocellus Business & Services, Mumbai - *Apr 2026 - Present*
+**Software Engineer** · Ocellus Business & Services, Mumbai - *Apr 2026 - Present*
 - Sole engineer on the team - built an internal MERN platform from scratch, including an admin panel with 20+ features used company-wide
 - Built an invoice generator with live preview (Puppeteer) that auto-generates PDFs, replacing the old manual process
 - Containerized the full platform with Docker, deployed on a bare Linux server via Cloudflare Tunnel - zero exposed ports, zero cloud hosting costs
