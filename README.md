@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer · Backend & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Backend-leaning+Full-Stack+Engineer;Building+production+MERN+platforms+solo;DNS+infrastructure+from+scratch;Docker+%7C+CI%2FCD+%7C+Self-hosted+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=GIS+Development;Backend-leaning+Full-Stack+Engineer;Building+production+MERN+platforms+solo;DNS+infrastructure+from+scratch;Docker+%7C+CI%2FCD+%7C+Self-hosted+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,6 +36,7 @@ I genuinely enjoy the infrastructure side of things as much as the code itself. 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS%20Maps%20SDK%20for%20JavaScript-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -61,10 +62,15 @@ I genuinely enjoy the infrastructure side of things as much as the code itself. 
 ### 💼 Experience
 
 **Software Engineer** · Ocellus Business & Services, Mumbai - *Apr 2026 - Present*
-- Sole engineer on the team - built an internal MERN platform from scratch, including an admin panel with 20+ features used company-wide
-- Built an invoice generator with live preview (Puppeteer) that auto-generates PDFs, replacing the old manual process
-- Containerized the full platform with Docker, deployed on a bare Linux server via Cloudflare Tunnel - zero exposed ports, zero cloud hosting costs
-- Wired up JWT auth + RBAC across all endpoints, automated Rclone backups, and set up CI/CD with GitHub Actions + Watchtower
+
+* Sole engineer on the team — built an internal MERN platform from scratch, including an admin panel with 20+ features used company-wide
+* Built an invoice generator with live preview (Puppeteer) that auto-generates PDFs, replacing the old manual process
+* Developed a **Geofenced Attendance Management System** with location-based check-in/out, face recognition, attendance tracking, and automated salary calculation
+* Developed a **GIS application** to monitor and visualize camera locations using interactive maps and geospatial data with ArcGIS Maps SDK for JavaScript
+* Built a **Remote Office PC Management System** enabling secure monitoring and remote control of office computers from remote locations
+* Containerized the full platform with Docker, deployed on a bare Linux server via Cloudflare Tunnel  zero exposed ports, zero cloud hosting costs
+* Wired up JWT auth + RBAC across all endpoints, automated Rclone backups, and set up CI/CD with GitHub Actions + Watchtower
+
 
 **Backend Developer (Intern)** · SIES College of Arts, Science and Commerce - *Nov 2025 - Jan 2026*
 - Designed and built REST APIs in Python (FastAPI) as the data layer between frontend and SQL database
